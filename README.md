@@ -1,4 +1,4 @@
-# CalculoIQA
+# Ìndice de qualidade da água
 Programa que realiza o calculo do indice de qualidade de água
 
 # O Programa solicitará os parâmetros
