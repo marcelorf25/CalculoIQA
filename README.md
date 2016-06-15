@@ -21,3 +21,7 @@ para entrar na pasta raiz > cd nome do repositório z;
 para gerar o executável do código > gcc main.c -o main -lm;
 para executar o código > ./main;
 Seguir as devidas instruções dadas pelo programa.
+
+#Referências
+GRUNITZIKI Ricardo,FERRARI Cleber, Ferramenta WEB para Cálculo do IQA 2013,
+
