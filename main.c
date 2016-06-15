@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <math.h>
+
 int main() 
 {
 	double coliformes_fecais, pH, DBO, nitrogenio_total, fosforo_total, variacao_temperatura, turbidez, solidos_totais, oxigenio_dissolvido;
@@ -151,3 +154,29 @@ else if (pH<2)
 		}
 			
 	}
+IQA=pow(q1,0.15)*pow(q2,0.12)*pow(q3,0.10)*pow(q4,0.10)*pow(q5,0.10)*pow(q6,0.10)*pow(q7,0.08)*pow(q8,0.08)*pow(q9,0.17);
+	printf("IQA = %lf\n", IQA);
+	
+	if (IQA>=0 && IQA<=19)
+	{
+		printf("Pessima\n");
+	}
+	if (IQA>=20 && IQA<=36)
+	{
+		printf("Ruim\n");
+	}
+	if (IQA>=37 && IQA<=50)
+	{
+		printf("Aceitavel\n");
+	}
+	if (IQA>=51 && IQA<=79)
+	{
+		printf("Boa\n");
+	}
+	if (IQA>=80 && IQA<=100)
+	{
+		printf("Otima\n");
+	}
+	
+	return 0;
+}	
