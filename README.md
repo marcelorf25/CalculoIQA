@@ -1,7 +1,7 @@
 # CalculoIQA
 Programa que realiza o calculo do indice de qualidade de água
 
-# O Programa solicitará os parãmetros
+# O Programa solicitará os parâmetros
 oxigênio dissolvido
 coliformes fecais
 pH
