@@ -2,15 +2,15 @@
 Programa que realiza o calculo do indice de qualidade de água
 
 # O Programa solicitará os parâmetros
-oxigênio dissolvido
-coliformes fecais
-pH
-DBO
-nitrogênio
-fósforo
-temperatura
-turbidez
-sólidos
+oxigênio dissolvido<br>
+coliformes fecais<br>
+pH<br>
+DBO<br>
+nitrogênio<br>
+fósforo<br>
+temperatura<br>
+turbidez<br>
+sólidos<br>
 
 com os dados postos no programa, podemos determinar o indíce de qualidade da água (IQA) e verficar o estado da qualidade da água.
 
