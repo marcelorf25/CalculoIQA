@@ -2,20 +2,20 @@
 Programa que realiza o calculo do indice de qualidade de água
 
 # O Programa solicitará os parâmetros
-oxigênio dissolvido<br>
-coliformes fecais<br>
+Oxigênio dissolvido<br>
+Coliformes fecais<br>
 pH<br>
 DBO<br>
-nitrogênio<br>
-fósforo<br>
-temperatura<br>
-turbidez<br>
-sólidos<br>
+Nitrogênio<br>
+Fósforo<br>
+Temperatura<br>
+Turbidez<br>
+Sólidos totais<br>
 
 Com os dados postos no programa, podemos determinar o indíce de qualidade da água (IQA) e verficar o estado da qualidade da água.
 
 #Como compilar  
-terminal > deve ser seguidos alguns passos:<br>
+entre no terminal e siga os passos:<br>
 para obter a pasta raiz > git clone url do repositório;<br>
 para entrar na pasta raiz > cd nome do repositório z;<br>
 para gerar o executável do código > gcc main.c -o main -lm;<br>
